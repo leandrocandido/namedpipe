@@ -1,0 +1,4 @@
+﻿  Client.cpp
+c:\users\lcand\source\repos\namedpipe\client\client.cpp(12): warning C4005: 'BUFSIZE': macro redefinition
+  c:\users\lcand\source\repos\namedpipe\client\asyncclient.h(15): note: see previous definition of 'BUFSIZE'
+  Client.vcxproj -> C:\Users\lcand\source\repos\NamedPipe\x64\Debug\Client.exe
