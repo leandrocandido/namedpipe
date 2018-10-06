@@ -1,1 +1,4 @@
-﻿
+﻿  WrapMessage.cpp
+c:\users\lcand\source\github\namedpipe\domain\wrapmessage.cpp(79): warning C4244: 'argument': conversion from 'WCHAR' to 'const char', possible loss of data
+c:\users\lcand\source\github\namedpipe\domain\wrapmessage.cpp(116): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+  Domain.vcxproj -> C:\Users\lcand\source\github\namedpipe\Debug\Domain.lib
