@@ -121,3 +121,8 @@ Sending a custom object to server:
 * Server send a message to client, signalizing the receive the request.
 
 * Client receives the message from server.
+
+## References:
+
+https://docs.microsoft.com/pt-br/windows/desktop/ipc/named-pipes
+https://www.boost.org/doc/libs/1_67_0/libs/serialization/doc/index.html
